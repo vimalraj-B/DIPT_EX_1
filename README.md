@@ -1,4 +1,4 @@
-# Experiment 1: Image Handling and Pixel Transformations Using OpenCV Assignment
+# Experiment 1 : Image Handling and Pixel Transformations Using OpenCV Assignment
 ### Developed By : VIMALRAJ B
 ### Register Number : 212224230304
 ### Aim :
